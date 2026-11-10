@@ -4,7 +4,7 @@ Projeto acadêmico de um jogo da cobrinha feito com HTML, CSS e JavaScript puro.
 
 ## Como executar no computador
 1. Baixe ou clone este repositório.
-2. Abra o arquivo `index.html` em um navegador (Chrome, Edge, Firefox etc.).
+2. Abra o arquivo `index.html` em um navegador 
 3. Clique em **Iniciar jogo**.
 
 ## Controles
@@ -20,4 +20,6 @@ Projeto acadêmico de um jogo da cobrinha feito com HTML, CSS e JavaScript puro.
 - Layout adaptável a computador e celular.
 
 ## Sobre a atividade
-O projeto demonstra a aplicação de estrutura HTML, estilização CSS, lógica de programação em JavaScript, eventos de teclado e toque, manipulação do Canvas e armazenamento local no navegador.
+O projeto demonstra a aplicação de estrutura HTML, estilização CSS, lógica de programação em JavaScript
+Espero que se divirtam
+Abraços, Venicius.
