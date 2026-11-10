@@ -1,7 +1,5 @@
 # Jogo da Cobrinha
 
-Projeto acadêmico de um jogo da cobrinha feito com HTML, CSS e JavaScript puro.
-
 ## Como executar no computador
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em um navegador 
